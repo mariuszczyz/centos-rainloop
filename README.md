@@ -9,6 +9,7 @@ None.
 ## Role Variables
 
 `RAINLOOP_VERSION` - current version is `1.12.1`
+
 `RAINLOOP_WEB_ROOT` - directory where Rainloop should be installed
 
 ## Dependencies
@@ -18,6 +19,7 @@ Rainloop requires PHP and MySQL.
 These roles will satisfy this requirement:
 
 mariuszczyz.centos-php
+
 mariuszczyz.centos-mysql
 
 ## Example Playbook
